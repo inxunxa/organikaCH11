@@ -1,0 +1,46 @@
+.item {
+  width: 250px;
+  height: 345px;
+  display: inline-block;
+  border: 1px solid #e9e9e9;
+  padding: 0 10px 10px 10px;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+.item img {
+  width: 230px;
+  height: 230px;
+}
+
+h5,
+h6 {
+  display: inline-block;
+}
+
+h5 {
+  color: #f55d2c;
+}
+
+h6 {
+  color: #8d8d8d;
+  margin-left: 20px;
+}
+
+.quantityPicker,
+.btn-add {
+  display: inline-block;
+}
+
+.btn-add {
+  margin-left: 40px;
+}
+
+.quantity-value {
+  width: 20px;
+}
+
+.price-title {
+  color: #8d8d8d;
+}

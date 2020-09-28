@@ -1,0 +1,49 @@
+.catalog-page {
+  text-align: left;
+}
+
+.categories {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.category {
+  display: inline-block;
+  background-color: white;
+  width: 200px;
+  height: 50px;
+  padding: 10px 10px 10px 0;
+  margin-left: 40px;
+  margin-bottom: 30px;
+  border: 1px solid #17a2b8;
+  border-radius: 6px;
+}
+
+.category h6 {
+  word-wrap: break-word;
+  font-weight: bold;
+  color: #667c97;
+}
+
+.category:hover {
+  border: 1px solid #e75f3d;
+  cursor: pointer;
+}
+
+.section {
+  margin-left: 40px;
+  color: #565657;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.products {
+  text-align: center;
+}
+
+.active-cat {
+  border: 1px solid #e75f3d;
+}
+
+.active-cat h6 {
+  color: #333;
+}
